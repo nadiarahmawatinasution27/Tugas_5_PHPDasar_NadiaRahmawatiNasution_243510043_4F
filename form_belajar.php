@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Membuat Form Sederhana</title>
+    <style>
+        body { background-color: #a5f2f2; font-family: Arial; }
+        h2 { color: #0e3358; }
+    </style>
 </head>
 <body>
     <h2>Formulir Pendaftaran</h2>
