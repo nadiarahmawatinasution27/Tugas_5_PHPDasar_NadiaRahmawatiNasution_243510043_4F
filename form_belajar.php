@@ -6,6 +6,7 @@
     <title>Membuat Form Sederhana</title>
 </head>
 <body>
+    <h2>Formulir Pendaftaran</h2>
     <form>
         <div>
             <label>Nama</label> <br>
