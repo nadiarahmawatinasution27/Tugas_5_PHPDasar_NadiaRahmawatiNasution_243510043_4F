@@ -14,11 +14,11 @@
     <form>
         <div>
             <label>Nama</label> <br>
-            <input name="nama" type="text" placeholder="Masukkan nama">
+            <input name="nama" type="text" placeholder="Masukkan nama anda">
         </div>
         <div>
             <label>Alamat</label> <br>
-            <input name="alamat" type="text" placeholder="Masukkan alamat">
+            <input name="alamat" type="text" placeholder="Masukkan alamat anda">
         </div>
         <div>
             <button>Submit</button>
